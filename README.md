@@ -1,6 +1,6 @@
 👋 My name is Vitalii and I am a Software Engineer based in Luxembourg.
 
-I build everything that stands between users and chaos. Edge infrastructure that makes the internet faster and safer — CDN, WAAP.
+I build everything that stands between users and chaos: CDN, WAAP, and other edge infrastructure that keeps the internet fast and safe.
 
 Currently working at [**Gcore**](https://github.com/G-Core).
 
