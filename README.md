@@ -1,6 +1,8 @@
 ## Hi, I'm Vitalii 👋
 
-🤖 AI-first software engineer, working on AI adoption across engineering workflows | 🛡️ CDN/WAAP/Edge Infrastructure
+🤖 AI-first software engineer, working on AI adoption across engineering workflows
+
+🛡️ I also build everything that stands between users and chaos: CDN, WAAP, and other edge infrastructure that keeps the internet fast and safe.
 
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
