@@ -1,8 +1,8 @@
 ## Hi, I'm Vitalii 👋
 
-📍 Luxembourg | 🛡️ CDN/WAAP/Edge Infrastructure | 🏗️ Software Engineer at [Gcore](https://github.com/G-Core)
+📍 Luxembourg | 🤖 AI-first engineer at [Gcore](https://github.com/G-Core), working on AI adoption across engineering workflows | 🛡️ CDN/WAAP/Edge Infrastructure | 🏗️ Software Engineer
 
-🛡️ I build everything that stands between users and chaos: CDN, WAAP, and other edge infrastructure that keeps the internet fast and safe.
+🛡️ I also build everything that stands between users and chaos: CDN, WAAP, and other edge infrastructure that keeps the internet fast and safe.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
