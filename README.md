@@ -1,6 +1,6 @@
 ## Hi, I'm Vitalii 👋
 
-📍 Luxembourg | 🤖 AI-first engineer at [Gcore](https://github.com/G-Core), working on AI adoption across engineering workflows | 🛡️ CDN/WAAP/Edge Infrastructure | 🏗️ Software Engineer
+🤖 AI-first software engineer, working on AI adoption across engineering workflows | 🛡️ CDN/WAAP/Edge Infrastructure
 
 🛡️ I also build everything that stands between users and chaos: CDN, WAAP, and other edge infrastructure that keeps the internet fast and safe.
 
