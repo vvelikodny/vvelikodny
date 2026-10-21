@@ -4,6 +4,8 @@
 
 🛡️ I build everything that stands between users and chaos — CDN, WAAP, and edge infrastructure keeping the internet fast and safe.
 
+привет Антону
+
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-4D4D4D?style=flat&logo=gnubash&logoColor=white)
