@@ -1,5 +1,7 @@
 ## Hi, I'm Vitalii 👋
 
+💻 Coding from a Tesla, from home, and from anywhere — the road is my office.
+
 🤖 AI-first software engineer, working on AI adoption across engineering workflows
 
 🛡️ I build everything that stands between users and chaos — CDN, WAAP, and edge infrastructure keeping the internet fast and safe.
