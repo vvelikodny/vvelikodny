@@ -1,14 +1,14 @@
 ## Hi, I'm Vitalii 👋
 
-💻 Coding from a Tesla, from home, and from anywhere — the road is my office.
+🤖 AI-first software engineer, working on AI adoption across engineering workflows | 🛡️ CDN/WAAP/Edge Infrastructure
 
-🤖 AI-first software engineer, working on AI adoption across engineering workflows
+🛡️ I also build everything that stands between users and chaos: CDN, WAAP, and other edge infrastructure that keeps the internet fast and safe.
 
-🛡️ I build everything that stands between users and chaos — CDN, WAAP, and edge infrastructure keeping the internet fast and safe.
-
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-4D4D4D?style=flat&logo=gnubash&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
