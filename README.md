@@ -1,6 +1,6 @@
 ## Hi, I'm Vitalii 👋
 
-🚀 I ship code from Tesla, from home, from anywhere. Привет моему сыну Пете.
+🚀 I ship code from Tesla, from home, from anywhere.
 
 🤖 AI-first software engineer, working on AI adoption across engineering workflows | 🛡️ CDN/WAAP/Edge Infrastructure
 
@@ -19,4 +19,3 @@
 [<img src="icons/telegram.svg" width="22px" />](https://t.me/vvelikodny)
 &nbsp;
 [<img src="icons/x.svg" width="22px" />](https://x.com/vvelikodny)
-}
