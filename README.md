@@ -12,7 +12,7 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-!![AI-first engineer](https://img.shields.io/badge/Engineering-AI--first-7C3AED?style=flat-square)
+![AI-first engineer](https://img.shields.io/badge/Engineering-AI--first-7C3AED?style=flat-square)
 
 [<img src="icons/linkedin.svg" width="22px" />](https://www.linkedin.com/in/vvelikodny/)
 &nbsp;
