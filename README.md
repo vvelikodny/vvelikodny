@@ -1,6 +1,5 @@
 ## Hi, I'm Vitalii 👋
 
-🚀 I ship code from Tesla, from home, from anywhere.
 
 🤖 AI-first software engineer, working on AI adoption across engineering workflows | 🛡️ CDN/WAAP/Edge Infrastructure
 
